@@ -15,7 +15,7 @@ Let's get started by setting up your environment. Follow Chapter #2 for specific
 
 2. **Clone the Repository and Install Requirements:**
    ```bash
-   git clone *
+   git clone https://github.com/PacktPublishing/Data-Drift-in-Machine-Learning.git
    cd tutorials
    pip install -r requirement.txt
    ```
