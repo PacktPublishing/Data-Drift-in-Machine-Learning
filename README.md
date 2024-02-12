@@ -1,6 +1,7 @@
 # Welcome to UCD_MISC_Data-Drift-in-Machine-Learning
 
-Thank you for choosing UCD_MISC_Data-Drift-in-Machine-Learning for exploring the fascinating world of data drift in machine learning! This repository offers powerful tools and resources to help you understand and address data drift challenges effectively.
+Thank you for choosing our book, Machine Learning for Drifts and Shifts, and for getting familiar with drifts in machine learning! 
+This repository contains working versions of the snippets provided in the book to help you understand and address data drift challenges effectively.
 
 ## Setting Up Your Environment
 
