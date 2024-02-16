@@ -158,8 +158,6 @@ dmypy.json
 *.png
 **/*.gz
 *.gz
-**/*.pkl
-*.pkl
 data/*
 **/data
 **/*.txt
