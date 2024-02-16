@@ -186,8 +186,6 @@ data/*
 *.pt
 **/*.csv
 *.csv
-**/*.pkl
-*.pkl
 **/*.pth
 *.pth
 **/*.err
