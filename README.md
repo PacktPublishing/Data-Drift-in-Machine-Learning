@@ -37,4 +37,4 @@ Your engagement enriches the UCD_MISC_Data-Drift-in-Machine-Learning community a
 
 ## License
 
-This project is licensed under the MIT licence 
+This project is licensed under the GPL-3.0 licence 
