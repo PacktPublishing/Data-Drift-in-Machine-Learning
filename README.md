@@ -13,12 +13,37 @@ Let's get started by setting up your environment. Follow Chapter #2 for specific
    conda activate book
    ```
 
-2. **Clone the Repository and Install Requirements:**
+1. **Clone the Repository and Install Requirements:**
    ```bash
    git clone https://github.com/PacktPublishing/Data-Drift-in-Machine-Learning.git
    cd tutorials
-   pip install -r requirement.txt
+   pip install -r requirements.txt
    ```
+
+1. **Installing NannyML:**
+
+   To install NannyML on a Mac, follow these steps:
+
+   1. **Install Homebrew** (if not already installed) from [Homebrew](https://brew.sh/).
+
+   2. **Install libomp**:
+      ```bash
+      brew install libomp
+      ```
+
+   3. **Install LightGBM** via conda:
+      ```bash
+      conda install -c conda-forge lightgbm
+      ```
+
+   4. **Install NannyML** via pip:
+      ```bash
+      pip install nannyml=0.9.0
+      ```
+
+1. **Installing river-torch:**
+
+Install as `pip install "river[torch]"`, we are currently using the 0.1.2 version.
 
 ## Contributing to UCD_MISC_Data-Drift-in-Machine-Learning
 
