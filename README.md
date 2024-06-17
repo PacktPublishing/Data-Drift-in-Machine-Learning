@@ -38,7 +38,7 @@ Let's get started by setting up your environment. Follow Chapter #2 for specific
 
    4. **Install NannyML** via pip:
       ```bash
-      pip install nannyml=0.9.0
+      pip install nannyml==0.9.0
       ```
 
 1. **Installing river-torch:**
