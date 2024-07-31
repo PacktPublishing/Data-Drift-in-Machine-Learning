@@ -35,7 +35,7 @@ Let's get started by setting up your environment. Follow Chapter #2 for specific
    pip install -r requirements.txt
    ```
 
-1. **Installing NannyML:**
+1. **Installing [NannyML](https://www.nannyml.com/library):**
 
    To install NannyML on a Mac, follow these steps:
 
