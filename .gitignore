@@ -163,7 +163,6 @@ dmypy.json
 *.gz
 data/*
 **/data
-**/*.txt
 **/*.jpg
 *.zip
 **/*.zip/
@@ -180,7 +179,6 @@ data/*
 **/*.jsonl
 *.jsonl
 *.zip
-*.txt
 **/*.pth.tar
 *.pth.tar
 **/*.tiff
