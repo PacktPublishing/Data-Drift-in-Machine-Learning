@@ -1,7 +1,22 @@
 # Welcome to UCD_MISC_Data-Drift-in-Machine-Learning
 
-Thank you for choosing our book, Machine Learning for Drifts and Shifts, and for getting familiar with drifts in machine learning! 
+Code samples for [Machine Learning for Drifts and Shifts](todo) published by [Packt](https://www.packtpub.com/?utm_source=github).
+
+Thank you for choosing our book, and for getting familiar with drifts in machine learning! 
+
 This repository contains working versions of the snippets provided in the book to help you understand and address data drift challenges effectively.
+
+## Chapters' examples
+
+* [Chapter 4: Monitoring and Detecting Drifts](Chapter04)
+* [Chapter 5: Concept Drift Detection and Handling](Chapter05)
+* [Chapter 6: Continuous and Incremental Learning](Chapter06)
+* [Chapter 7: Catastrophic Forgetting and Adaptive Learning](Chapter07)
+* [Chapter 8: Model Re-training](Chapter08)
+* [Chapter 9: Managing End-to-end Pipelines under the Presence of Drifts](Chapter09)
+* [Chapter 10: Working with Datasets Partially Representing the Data Distribution](Chapter10)
+* [Chapter 11: Learning Non-stationary Data](Chapter11)
+* [Chapter 12: Dealing with Stationarities and Recurrences in Continual Learning](Chapter12)
 
 ## Setting Up Your Environment
 
