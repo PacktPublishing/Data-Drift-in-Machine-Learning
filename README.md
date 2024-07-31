@@ -20,7 +20,7 @@ This repository contains working versions of the snippets provided in the book t
 
 ## Setting Up Your Environment
 
-Let's get started by setting up your environment. Follow Chapter #2 for specific details on installing all required packages:
+Let's get started by setting up your environment. Follow Chapter #2 for specific details on installing all required packages. List of current requirements is present in [requirements.txt](requirements.txt) file.
 
 1. **Create a Conda Environment:**
    ```bash
