@@ -1,4 +1,4 @@
-# Welcome to UCD_MISC_Data-Drift-in-Machine-Learning
+# Welcome to Data-Drift-in-Machine-Learning
 
 Code samples for [Machine Learning for Drifts and Shifts](todo) published by [Packt](https://www.packtpub.com/?utm_source=github).
 
@@ -60,20 +60,20 @@ Let's get started by setting up your environment. Follow Chapter #2 for specific
 
 Install as `pip install "river[torch]"`, we are currently using the 0.1.2 version.
 
-## Contributing to UCD_MISC_Data-Drift-in-Machine-Learning
+## Contributing to Data-Drift-in-Machine-Learning
 
-We welcome contributions from the community to enhance and expand UCD_MISC_Data-Drift-in-Machine-Learning. Here's how you can contribute:
+We welcome contributions from the community to enhance and expand Data-Drift-in-Machine-Learning. Here's how you can contribute:
 
 - **Fork and Pull Requests:**
-  Feel free to fork the UCD_MISC_Data-Drift-in-Machine-Learning repository and submit your contributions via pull requests. We acknowledge all contributors in our releases, and outstanding contributions may even earn you a spot on the UCD_MISC_Data-Drift-in-Machine-Learning conference website!
+  Feel free to fork the Data-Drift-in-Machine-Learning repository and submit your contributions via pull requests. We acknowledge all contributors in our releases, and outstanding contributions may even earn you a spot on the Data-Drift-in-Machine-Learning conference website!
 
 - **Bug Reports and Feature Suggestions:**
-  We value bug reports, feature suggestions, and enhancements. Your feedback helps us improve UCD_MISC_Data-Drift-in-Machine-Learning and make it more robust and user-friendly.
+  We value bug reports, feature suggestions, and enhancements. Your feedback helps us improve Data-Drift-in-Machine-Learning and make it more robust and user-friendly.
 
 - **Sharing Your Projects:**
-  If you've built exciting projects or applications using UCD_MISC_Data-Drift-in-Machine-Learning, we'd love to hear about them! Share your links and experiences with the community to inspire others.
+  If you've built exciting projects or applications using Data-Drift-in-Machine-Learning, we'd love to hear about them! Share your links and experiences with the community to inspire others.
 
-Your engagement enriches the UCD_MISC_Data-Drift-in-Machine-Learning community and contributes to its growth and development!
+Your engagement enriches the Data-Drift-in-Machine-Learning community and contributes to its growth and development!
 
 ## License
 
